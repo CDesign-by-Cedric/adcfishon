@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conditions Générales d'Utilisation - AdCFishon</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        h1 {
+            color: #2a7b8d;
+        }
+        h2 {
+            margin-top: 30px;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Conditions Générales d’Utilisation</h1>
+    <p><strong>Date de mise à jour :</strong> avril 2025</p>
+
+    <h2>1. Présentation de l’application</h2>
+    <p>L'application <strong>AdCFishon</strong> est une application mobile destinée aux passionnés de pêche, permettant d’enregistrer et de suivre leurs prises.</p>
+
+    <h2>2. Acceptation des conditions</h2>
+    <p>L’utilisation de l’application implique l’acceptation pleine et entière des présentes Conditions Générales d’Utilisation (CGU). Si vous n’acceptez pas ces conditions, veuillez ne pas utiliser l’application.</p>
+
+    <h2>3. Compte utilisateur</h2>
+    <p>Les utilisateurs doivent créer un compte pour accéder à certaines fonctionnalités. Ils sont responsables de la sécurité de leurs identifiants.</p>
+
+    <h2>4. Données collectées</h2>
+    <p>AdCFishon stocke localement les captures saisies par les utilisateurs. Certaines informations telles que la localisation et la météo peuvent être automatiquement enregistrées.</p>
+
+    <h2>5. Propriété intellectuelle</h2>
+    <p>Le contenu de l’application, y compris son logo, interface et design, est la propriété exclusive de son auteur.</p>
+
+    <h2>6. Limitation de responsabilité</h2>
+    <p>L’application est proposée « en l’état » sans garantie d’exactitude des données météo ni disponibilité permanente.</p>
+
+    <h2>7. Suppression de compte</h2>
+    <p>Les utilisateurs peuvent demander la suppression de leur compte via cette page : <a href="suppression.html">suppression.html</a></p>
+
+    <h2>8. Politique de confidentialité</h2>
+    <p>Pour en savoir plus sur la gestion de vos données, consultez notre <a href="confidentialite.html">politique de confidentialité</a>.</p>
+
+    <h2>9. Modification des CGU</h2>
+    <p>Les présentes conditions peuvent être modifiées à tout moment. Il est conseillé de les consulter régulièrement.</p>
+
+</body>
+</html>
