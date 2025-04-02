@@ -18,8 +18,8 @@ L'utilisation de cette application est gratuite...
 
 ## 🔒 Politique de confidentialité
 Aucune donnée personnelle n’est partagée...
-👉 [Voir la politique complète](#)
+👉 https://CDesign-by-Cedric.github.io/adcfishon/confidentialite.html
 
 ## ❌ Supprimer un compte
-👉 [Cliquez ici pour demander la suppression](https://CDesign-by-Cedric.github.io/delete-account)
+👉 https://CDesign-by-Cedric.github.io/adcfishon/suppression.html
 
