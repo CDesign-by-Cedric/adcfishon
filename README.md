@@ -14,7 +14,8 @@ Bienvenue sur l'application AdCFishon, votre carnet de pêche numérique.
 
 ## 📝 Conditions générales d’utilisation
 L'utilisation de cette application est gratuite...
-👉https://CDesign-by-Cedric.github.io/adcfishon/Conditions Générales d’Utilisation.html
+👉https://cdesign-by-cedric.github.io/adcfishon/cgu.html
+
 
 ## 🔒 Politique de confidentialité
 Aucune donnée personnelle n’est partagée...
